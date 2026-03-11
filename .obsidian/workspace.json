@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
+                "file": "picoCTF/picoCTF - Forensics 2/c0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Lies Within"
+              "title": "c0rrupt"
             }
           }
         ]
@@ -185,12 +185,18 @@
   },
   "active": "1dc2e485b88550e7",
   "lastOpenFiles": [
+    "picoCTF/picoCTF - Forensics 2/like1000.md",
+    "picoCTF/picoCTF - Forensics 2/m00nwalk.md",
+    "picoCTF/picoCTF - Forensics 2/shark on wire 2.md",
+    "picoCTF/picoCTF - Forensics 2/WhitePages.md",
+    "picoCTF/picoCTF - Forensics 2/c0rrupt.md",
+    "Plantilla.md",
+    "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
+    "picoCTF/picoCTF - Forensics 2",
     "picoCTF/picoCTF - Forensic 1/extensions.md",
     "picoCTF/picoCTF - Forensic 1/shark on wire 1.md",
     "picoCTF/picoCTF - Forensic 1/So Meta.md",
     "picoCTF/picoCTF - Forensic 1/Glory of the Garden.md",
-    "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
-    "Plantilla.md",
     "picoCTF/picoCTF - Forensic 1",
     "picoCTF/picoCTF Web 2/picCTF web 3/JaWT Scratchpad.md",
     "README.md",
@@ -211,15 +217,9 @@
     "picoCTF/Tarea1-General-Skills/Permissions.md",
     "picoCTF/picoCTF Web 1",
     "picoCTF/Tarea1-General-Skills/ASCII Numbers.md",
-    "picoCTF/Tarea1-General-Skills/Collaborative Development.md",
-    "picoCTF/Tarea1-General-Skills/Blame Game.md",
-    "picoCTF/Tarea1-General-Skills/binhexa.md",
-    "picoCTF/Tarea1-General-Skills/time machine.md",
-    "picoCTF/Tarea1-General-Skills/special.md",
     "picoCTF/Tarea1-General-Skills",
     "picoCTF/03-General-Skills",
     "picoCTF/02-General-Skills",
-    "picoCTF/01-General-Skills/Untitled",
-    "Untitled 1"
+    "picoCTF/01-General-Skills/Untitled"
   ]
 }
