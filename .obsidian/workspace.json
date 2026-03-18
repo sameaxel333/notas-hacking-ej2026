@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF - Forensics 2/c0rrupt.md",
+                "file": "picoCTF/picoCTF forensics 3/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c0rrupt"
+              "title": "MacroHard WeakEdge"
             }
           }
         ]
@@ -185,12 +185,27 @@
   },
   "active": "1dc2e485b88550e7",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "picoCTF/picoCTF forensics 3/Matryoshka doll.md",
+    "picoCTF/picoCTF forensics 3/MacroHard WeakEdge.md",
+    "picoCTF/picoCTF forensics 3/tunn3l v1s10n.md",
+    "picoCTF/picoCTF forensics 3/WebNet0.md",
+    "picoCTF/picoCTF forensics 3/WebNet1.md",
+    "picoCTF/picoCTF Web 4/Most cookies.md",
+    "picoCTF/picoCTF forensics 3",
+    "picoCTF/Untitled.base",
+    "picoCTF/picoCTF Web 4/Trickster.md",
+    "picoCTF/picoCTF Web 4/SOAP.md",
+    "picoCTF/picoCTF Web 4/trickster.md",
+    "picoCTF/picoCTF Web 4/MatchTheRegex.md",
+    "Untitled.md",
+    "README.md",
+    "picoCTF/picoCTF - Forensics 2/c0rrupt.md",
+    "picoCTF/picoCTF Web 4",
     "picoCTF/picoCTF - Forensics 2/like1000.md",
     "picoCTF/picoCTF - Forensics 2/m00nwalk.md",
     "picoCTF/picoCTF - Forensics 2/shark on wire 2.md",
     "picoCTF/picoCTF - Forensics 2/WhitePages.md",
-    "picoCTF/picoCTF - Forensics 2/c0rrupt.md",
-    "Plantilla.md",
     "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
     "picoCTF/picoCTF - Forensics 2",
     "picoCTF/picoCTF - Forensic 1/extensions.md",
@@ -198,28 +213,13 @@
     "picoCTF/picoCTF - Forensic 1/So Meta.md",
     "picoCTF/picoCTF - Forensic 1/Glory of the Garden.md",
     "picoCTF/picoCTF - Forensic 1",
-    "picoCTF/picoCTF Web 2/picCTF web 3/JaWT Scratchpad.md",
-    "README.md",
-    "picoCTF/picoCTF Web 2/picCTF web 3/More SQLi.md",
-    "picoCTF/picoCTF Web 2/picCTF web 3/Irish-Name-Repo 1.md",
-    "picoCTF/picoCTF Web 2/Scavenger Hunt.md",
-    "picoCTF/picoCTF Web 2/picCTF web 3",
-    "picoCTF/picoCTF Web 2/Cookies.md",
-    "picoCTF/picoCTF Web 2/GET aHEAD.md",
-    "picoCTF/picoCTF Web 1/logon.md",
+    "picoCTF/picCTF web 3/JaWT Scratchpad.md",
+    "picoCTF/picCTF web 3/More SQLi.md",
+    "picoCTF/picCTF web 3/Irish-Name-Repo 1.md",
+    "picoCTF/picCTF web 3",
     "picoCTF/picoCTF Web 2",
-    "picoCTF/picoCTF Web 1/Client-side-again.md",
-    "picoCTF/picoCTF Web 1/dont-use-client-side.md",
-    "picoCTF/picoCTF Web 1/pico browser.md",
-    "picoCTF/picoCTF Web 1/where are the robots.md",
-    "picoCTF/picoCTF Web 1/Insp3ct0r.md",
-    "picoCTF/Untitled.base",
-    "picoCTF/Tarea1-General-Skills/Permissions.md",
     "picoCTF/picoCTF Web 1",
-    "picoCTF/Tarea1-General-Skills/ASCII Numbers.md",
     "picoCTF/Tarea1-General-Skills",
-    "picoCTF/03-General-Skills",
-    "picoCTF/02-General-Skills",
-    "picoCTF/01-General-Skills/Untitled"
+    "picoCTF/03-General-Skills"
   ]
 }
