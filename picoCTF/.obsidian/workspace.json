@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "c47e68565777f547",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e83a696ca84e22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5b37307e088180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrimerExamen/Web/Java Code Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Code Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "373b948d685d0809",
+    "type": "split",
+    "children": [
+      {
+        "id": "55520137ba57b966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a628057dc1bc1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "22661ab9c0e5990b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "34bc3c76c7ec55a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb54ec49158cee13",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2dba763760b27dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0879ad60678080",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PrimerExamen/General Skills/HashingJobApp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de HashingJobApp"
+            }
+          },
+          {
+            "id": "ebd1b353068ec94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PrimerExamen/General Skills/HashingJobApp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de HashingJobApp"
+            }
+          },
+          {
+            "id": "873a1cb36a88fbbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ce5081a10212f7a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "fc805da45e77df5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PrimerExamen/General Skills/HashingJobApp.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de HashingJobApp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7c5b37307e088180",
+  "lastOpenFiles": [
+    "PrimerExamen/Web/Sin título.md",
+    "PrimerExamen/Web/java.md",
+    "PrimerExamen/Web/SSTI2.md",
+    "PrimerExamen/Web/head-dump.md",
+    "PrimerExamen/Web/Bookmarklet.md",
+    "PrimerExamen/Web/SQL Direct.md",
+    "PrimerExamen/Web/findme.md",
+    "PrimerExamen/Web/SSTI1.md",
+    "PrimerExamen/Web/Cookie Monster Secret Recipe.md",
+    "PrimerExamen/Web/Java Code Analysis.md",
+    "Plantilla.md",
+    "Tarea1-General-Skills/Specialer.md",
+    "PrimerExamen/Web",
+    "PrimerExamen/Sin título.md",
+    "Tarea1-General-Skills/special.md",
+    "Tarea1-General-Skills/Sans Alpha.md",
+    "Untitled.base",
+    "PrimerExamen/General Skills/pythonwrangling.md",
+    "PrimerExamen/General Skills/flag_shop.md",
+    "PrimerExamen/General Skills/dont-you-love-banners.md",
+    "PrimerExamen/General Skills/Rust Fix Me3.md",
+    "PrimerExamen/General Skills/HashingJobApp.md",
+    "PrimerExamen/General Skills/FANTASY CTF.md",
+    "PrimerExamen/General Skills/Rust fixme 1.md",
+    "PrimerExamen/General Skills/Rust fix me 2.md",
+    "picoCTF Web 4/MatchTheRegex.md",
+    "PrimerExamen/General Skills",
+    "PrimerExamen/GeneralSkills.canvas",
+    "Sin nombre",
+    "PrimerExamen"
+  ]
+}
