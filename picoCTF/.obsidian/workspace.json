@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PrimerExamen/Web/Java Code Analysis.md",
+                "file": "forensicsTarea/phantom Intruder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Code Analysis"
+              "title": "phantom Intruder"
             }
           }
         ]
@@ -185,6 +185,20 @@
   },
   "active": "7c5b37307e088180",
   "lastOpenFiles": [
+    "forensicsTarea/RED.md",
+    "forensicsTarea/Secret of polyglot.md",
+    "forensicsTarea/CanYouSee.md",
+    "forensicsTarea/Scan Surprise.md",
+    "forensicsTarea/hideme.md",
+    "forensicsTarea/Redaction gone wron.md",
+    "forensicsTarea/St3g0.md",
+    "forensicsTarea/information.md",
+    "forensicsTarea/phantom Intruder.md",
+    "Plantilla.md",
+    "Untitled.base",
+    "Sin título.md",
+    "PrimerExamen/Web/Java Code Analysis.md",
+    "forensicsTarea",
     "PrimerExamen/Web/Sin título.md",
     "PrimerExamen/Web/java.md",
     "PrimerExamen/Web/SSTI2.md",
@@ -194,26 +208,13 @@
     "PrimerExamen/Web/findme.md",
     "PrimerExamen/Web/SSTI1.md",
     "PrimerExamen/Web/Cookie Monster Secret Recipe.md",
-    "PrimerExamen/Web/Java Code Analysis.md",
-    "Plantilla.md",
     "Tarea1-General-Skills/Specialer.md",
     "PrimerExamen/Web",
     "PrimerExamen/Sin título.md",
     "Tarea1-General-Skills/special.md",
     "Tarea1-General-Skills/Sans Alpha.md",
-    "Untitled.base",
-    "PrimerExamen/General Skills/pythonwrangling.md",
-    "PrimerExamen/General Skills/flag_shop.md",
-    "PrimerExamen/General Skills/dont-you-love-banners.md",
-    "PrimerExamen/General Skills/Rust Fix Me3.md",
-    "PrimerExamen/General Skills/HashingJobApp.md",
-    "PrimerExamen/General Skills/FANTASY CTF.md",
-    "PrimerExamen/General Skills/Rust fixme 1.md",
-    "PrimerExamen/General Skills/Rust fix me 2.md",
-    "picoCTF Web 4/MatchTheRegex.md",
     "PrimerExamen/General Skills",
     "PrimerExamen/GeneralSkills.canvas",
-    "Sin nombre",
     "PrimerExamen"
   ]
 }
