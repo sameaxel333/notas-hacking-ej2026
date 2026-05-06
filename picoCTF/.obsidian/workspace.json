@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing1/vault-door-1.md",
+                "file": "Reversing2/picker4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-1"
+              "title": "picker4"
             }
           }
         ]
@@ -185,22 +185,30 @@
   },
   "active": "4389c633e0a06a97",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "Reversing2/picker4.md",
+    "Reversing2/picker3.md",
+    "Reversing2/Picker2.md",
+    "Reversing2/Picker1.md",
+    "Reversing2/Safeopener2.md",
+    "Sin título.md",
+    "Untitled.base",
+    "PrimerExamen/Web/findme.md",
+    "Reversing2/Timer.md",
+    "Reversing1/vault-door-1.md",
+    "Reversing2",
     "Reversing1/vault-door-3.md",
     "Reversing1/vault-door-4.md",
     "Reversing1/vault-door-5.md",
     "Reversing1/vault-door-training.md",
-    "Reversing1/vault-door-1.md",
-    "Plantilla.md",
     "Crypto 3/b00tl3gRSA3.md",
     "Reversing1",
     "Crypto 3/b00tl3gRSA2.md",
     "Crypto 3/Mind your Ps and Qs.md",
     "Crypto 3/Mini RSA.md",
-    "Untitled.base",
     "Crypto 2/rsa-pop-quiz.md",
     "Crypto 3",
     "Crypto 2/desktop.ini",
-    "Sin título.md",
     "Crypto 1/13.md",
     "Crypto 2",
     "Crypto 1/Crypto 2",
@@ -210,17 +218,9 @@
     "Crypto 1/la cifra de.md",
     "Crypto 1/Tapping.md",
     "Crypto 1/The numbers.md",
-    "Crypto 1/waves over lambda.md",
-    "forensicsTarea/phantom Intruder.md",
     "Crypto 1",
-    "forensicsTarea/RED.md",
-    "forensicsTarea/Secret of polyglot.md",
-    "forensicsTarea/CanYouSee.md",
-    "forensicsTarea/Scan Surprise.md",
-    "forensicsTarea/hideme.md",
     "forensicsTarea",
     "PrimerExamen/Web",
-    "PrimerExamen/General Skills",
     "PrimerExamen/GeneralSkills.canvas"
   ]
 }
