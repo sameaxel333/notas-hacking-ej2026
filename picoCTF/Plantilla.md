@@ -1,5 +1,3 @@
-
-
 # reto
 # Descripción
 
@@ -7,8 +5,6 @@
 ## solución
 
 ## solución 2
-
-
 
 
 # referencias
